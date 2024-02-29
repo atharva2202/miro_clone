@@ -3,7 +3,7 @@
 ### Getting Started
 1. Clone the project:
    ```
-   git clone https://github.com/hammoh7/CoVibe.git
+   git clone https://github.com/atharva2202/miro_clone.git
    ```
 2. Run:
    ```
